@@ -2,6 +2,10 @@
 
 > Basic Pop-up message with tkinter
 
-## Subheader
+## Information
 
-Be carefull
+Python, tkinter
+
+## How to use
+
+1. Open html.index in your brower
